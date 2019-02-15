@@ -1,0 +1,10 @@
+E:\Apurva\Projects\BidExpress\ImageUrlScraper\ImageUrlScraper\bin\Debug\ImageUrlScraper.exe.config
+E:\Apurva\Projects\BidExpress\ImageUrlScraper\ImageUrlScraper\bin\Debug\ImageUrlScraper.exe
+E:\Apurva\Projects\BidExpress\ImageUrlScraper\ImageUrlScraper\bin\Debug\ImageUrlScraper.pdb
+E:\Apurva\Projects\BidExpress\ImageUrlScraper\ImageUrlScraper\bin\Debug\Oracle.ManagedDataAccess.dll
+E:\Apurva\Projects\BidExpress\ImageUrlScraper\ImageUrlScraper\obj\Debug\ImageUrlScraper.csprojResolveAssemblyReference.cache
+E:\Apurva\Projects\BidExpress\ImageUrlScraper\ImageUrlScraper\obj\Debug\ImageUrlScraper.exe
+E:\Apurva\Projects\BidExpress\ImageUrlScraper\ImageUrlScraper\obj\Debug\ImageUrlScraper.pdb
+E:\Apurva\Projects\ImageUrlScraper\ImageUrlScraper\bin\Debug\ImageUrlScraper.exe.config
+E:\Apurva\Projects\ImageUrlScraper\ImageUrlScraper\obj\Debug\ImageUrlScraper.exe
+E:\Apurva\Projects\ImageUrlScraper\ImageUrlScraper\obj\Debug\ImageUrlScraper.pdb
